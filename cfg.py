@@ -14,7 +14,7 @@ LeNet_cfg = {
     # training hyperparameters
     'batch_size': 16,
     'lr':0.01,
-    'milestones': [5, 10, 15, 20, 25],
+    'milestones': [15, 25],
     'num_out': 10,
     'num_epoch': 30,
     
@@ -31,7 +31,7 @@ ResNet_cfg = {
     # training hyperparameters
     'batch_size': 16,
     'lr':0.01,
-    'milestones': [5, 10, 15, 20, 25],
+    'milestones': [15, 25],
     'num_out': 10,
     'num_epoch': 30,
     
@@ -48,7 +48,7 @@ ResNet18_cfg = {
     # training hyperparameters
     'batch_size': 16,
     'lr':0.01,
-    'milestones': [5, 10, 15, 20, 25],
+    'milestones': [15, 25],
     'num_out': 10,
     'num_epoch': 30,
     
