@@ -24,4 +24,4 @@ python3 main.py --model 'ResNet_18’
 python3 eval.py --path 'save_dir/ResNet_18/best_model.pt' --model 'ResNet_18'
 
 ## Accuracy Results:
-myLeNet acc=0.57 | myResNet acc=0.77 | Resnet18 acc=0.80.
+myLeNet acc=0.57 | myResNet acc=0.77 | Resnet18 acc=0.8034.
